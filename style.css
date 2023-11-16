@@ -13,6 +13,12 @@
 body {
     #color: rgb(155, 0, 40);
 }
+#banner {
+    width: 300px;
+    padding: 200px;
+    margin: 150px
+    ;
+}
 
 {
 #background: 
