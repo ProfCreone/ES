@@ -16,7 +16,8 @@ body {
 #banner {
     width: 350px;
     padding: 250px;
-    margin: 50px
+    margin: 50px;
+    text-align: center;
     ;
 }
 
