@@ -2,6 +2,7 @@
     color: blue;
     text-align: center;
     font-size: 20px;
+    background-color: yellow;
 }
 
 #titulo {
@@ -10,8 +11,6 @@
     font-size: 30px;
 }
 
-body {
-    #color: rgb(155, 0, 40);
 }
 #banner {
     width: 350px;
@@ -20,9 +19,9 @@ body {
     text-align: center;
     ;
 }
-<div class="background-color": :red 
 
 
-{
-#background color: red
+.listas {
+background-color: green;
+
 }
