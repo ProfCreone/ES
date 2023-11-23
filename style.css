@@ -24,4 +24,8 @@
 .listas {
 background-color: pink;
 
+.escola {
+    background-image: linear-gradient( beige, blue);
+    color: blueviolet;
+}
 }
