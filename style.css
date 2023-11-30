@@ -11,6 +11,13 @@
     font-size: 30px;
 }
 
+.header {
+    font-size: 22px;
+    padding: 20px;
+    margin: 0px;
+    display: flex;/* conteudo flexivel*/
+    justify-content: space-around; /* espaço ao redor do conteudo de forma igual*/
+    border-bottom: 10x; solid
 }
 #banner {
     width: 350px;
