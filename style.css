@@ -30,8 +30,12 @@
 }
 
 
-.listas {
+.listas-item {
 background-color: pink;
+    display: inline-block;
+    color: white;
+    padding: 30px;
+    margin: 0px;
 
 .escola {
     background-image: linear-gradient(#804674, blue#D277CO);
